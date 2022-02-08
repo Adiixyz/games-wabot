@@ -111,6 +111,10 @@ node .
 ---------
 
 ## Arguments `node . [--options] [<session name>]`
+#### Example
+```bash
+> node . --restrict games-wabot
+```
 
 ### `--self`
 
